@@ -1,5 +1,5 @@
 modules = ["c-clang14", "cpp-clang14", "java-graalvm22.3", "python-3.12"]
-run = "python main.py"
+run = "python juice_maker.py"
 
 [nix]
 channel = "stable-23_11"

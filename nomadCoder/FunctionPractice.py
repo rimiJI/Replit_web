@@ -10,7 +10,7 @@ def get_tax_amount(profit):
     return profit * 0.25
   else:
     return profit * 0.15  
-  
+
 def apply_tax_credits(tax_amount, tax_credits ):
   return tax_amount*tax_credits
 
